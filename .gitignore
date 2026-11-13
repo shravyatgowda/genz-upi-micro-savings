@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw research material: recordings, transcripts, anything with personal data
+research/raw/
+research/recordings/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+
+# Secrets and local config
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
